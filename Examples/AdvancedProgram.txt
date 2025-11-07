@@ -1,0 +1,4 @@
+﻿Repeat 3
+    DoUntil HitWall
+        Move 1
+    Turn right
